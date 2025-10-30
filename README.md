@@ -27,3 +27,7 @@ O modelo foi treinado para distinguir e classificar o áudio de entrada em 4 (qu
  Python: Linguagem de programação principal utilizada.
  TensorFlow Lite (TFLite): Utilizado para otimizar e implantar o modelo de Deep Learning em ambientes restritos.
  Teachable Machine (do Google): Plataforma web utilizada para o desenvolvimento e treinamento rápido do modelo de classificação de áudio.
+
+EXECUÇÃO:
+
+Para executar basta fazer o upload do arquivo de modelo 'model.tflite' no notebook e executar as células
